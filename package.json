@@ -1,0 +1,19 @@
+{
+  "name": "alshifa.ccd.types",
+  "version": "1.0.0",
+  "description": "CCD based patient types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfjadi2010/alshifa.ccd.types.git"
+  },
+  "author": "Salman Farsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sfjadi2010/alshifa.ccd.types/issues"
+  },
+  "homepage": "https://github.com/sfjadi2010/alshifa.ccd.types#readme"
+}
